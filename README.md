@@ -71,7 +71,7 @@ Timeline Reconstruction
 Evidence Preservation
         │
         ▼
-Reporting
+    Reporting
 ```
 
 ---
