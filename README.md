@@ -176,15 +176,26 @@ Collected forensic artifacts and preserved evidence by generating SHA-256 hashes
 
 ---
 
-# Evidence Collected
+# Screenshots/
+├── 01_environment_setup.png
 
-```text
-evidence/
-│
-├── logs/
-├── timeline/
-├── system_info/
-└── evidence_hashes.txt
+├── 02_var_log_directory.png
+
+├── 03_auth_log.png
+
+|── 04_auth_analysis.png
+
+├── 05_authentication_events.png
+
+├── 06_timeline.png
+
+├── 07_user_accounts.png
+
+├── 08_system_logs.png
+
+├── 09_evidence_collection.png
+
+└── 10_hash_verification.png
 ```
 
 ---
